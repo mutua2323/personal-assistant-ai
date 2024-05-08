@@ -1,0 +1,40 @@
+############ CLI VERSION ############
+
+1) tell the date and time
+2) find location on map
+3) tell the weather
+4) find files in computer
+5) take screenshot
+6) search on google
+7) search on youtube
+8) generate a password
+9) perform simple calculations
+10) log into instagram, twitter, facebook
+11) send message in whatsapp (condition may be added with an alternative message)
+12) roll a dice
+13) toss a coin 
+14) tell a joke
+15) search something in wikipedia
+
+
+
+############ GUI VERSION ############
+
+1) tell the date and time
+2) find location on map
+3) tell the weather
+4) find files in computer
+5) take screenshot
+6) search on google
+7) search on youtube
+8) generate a password
+9) perform simple calculations
+10) log into instagram, twitter, facebook
+11) send message in whatsapp (condition may be added with an alternative message)
+12) roll a dice
+13) toss a coin 
+14) tell a joke
+15) search something in wikipedia
+16) check connection status for url
+17) Shorten url
+18) fetch news

@@ -1,0 +1,5 @@
+brew install python
+pip install tkinter selenium pyttsx3 SpeechRecognition pyaudio wikipedia pyautogui pyjokes requests pyshorteners pyperclip webbrowser datetime random time threading
+brew install portaudio
+pip install pyaudio
+brew install chromedriver
